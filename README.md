@@ -1,16 +1,8 @@
-# shoot_master
 
-A new Flutter project.
+# ShootMaster
+A game where you need to shoot the goals by hitting the ball for the certain period of time
 
-## Getting Started
+![image](https://github.com/VladBalabas/ShootMaster/assets/125162851/f1688911-a440-42cc-b41b-992a309bad72) ![image](https://github.com/VladBalabas/ShootMaster/assets/125162851/79abdf60-d17c-4358-a057-96fe65d417e0) ![image](https://github.com/VladBalabas/ShootMaster/assets/125162851/9d3195a1-2211-4ee1-b772-19c26a9c1792)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+>>>>>>> 70e8a8a583f79466b472dafa9029fc72af9ca6ac
